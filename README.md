@@ -14,7 +14,7 @@ Mungkin kamu bakal nemuin sebuah *link*, mungkin juga sebuah *kode*...
 - Hanya butuh **satu passphrase gabungan** dari dua potongan `(part1 + part2)`.
 
 ### 💬 Flag Format
-FLAG{Kaliber_Tak_Terhenti_Berkompetisi}
+Kaliber{disini_isi_flag}
 
 ### 🕵️‍♂️ Catatan Tambahan  
 Bayangan tidak pernah berjalan di jalur utama.  
