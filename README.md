@@ -16,6 +16,11 @@ Mungkin kamu bakal nemuin sebuah *link*, mungkin juga sebuah *kode*...
 ### 💬 Flag Format
 FLAG{Kaliber_Tak_Terhenti_Berkompetisi}
 
+### 🕵️‍♂️ Catatan Tambahan  
+Bayangan tidak pernah berjalan di jalur utama.  
+Beberapa petunjuk hanya bisa ditemukan jika kamu menelusuri **lokasi operasi** lain dalam repositori ini...  
+🔗 [cyberkaliber2025/tree/ops-location](https://github.com/mrobi27/cyberkaliber2025/tree/ops-location)
+
 ### 🧠 About Challenge
 > Operasi Bayangan adalah latihan internal OSINT yang dirancang untuk mengasah kemampuan investigasi digital anggota Kaliber.  
 > Semua data yang digunakan bersifat publik dan hanya untuk keperluan edukasi & kompetisi internal.
