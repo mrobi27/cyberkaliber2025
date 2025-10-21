@@ -53,7 +53,7 @@ chall/osint/twicetagram/
 2. **Isi file-file wajib**: 
    - `soal.txt` - Deskripsi soal, flag format, dan informasi challenge
    - File challenge (gambar, zip, script, dll) - File yang akan diberikan ke peserta
-3. **Buat writeup** di `chall/<kategori>/Writeup/<kategori>.pdf`
+3. **Buat writeup** di `chall/<kategori>/Writeup/<WU_kategori>.pdf`
 4. **Testing**: Pastikan soal bisa diselesaikan sesuai writeup
 
 ---
@@ -71,7 +71,7 @@ Untuk deploy challenge ke platform CTFd:
    - Isi nama challenge
    - Copy-paste deskripsi dari `soal.txt`
    - Set poin sesuai kesulitan
-4. **Input flag** sesuai yang ada di `writeup.pdf`
+4. **Input flag** sesuai yang ada di `WU_Kategori.pdf`
 5. **Publish challenge** dan test dari akun peserta
 
 ---
