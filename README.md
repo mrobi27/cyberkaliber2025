@@ -78,8 +78,8 @@ Untuk deploy challenge ke platform CTFd:
 
 ## 👥 Tim Penyusun
 
-- **Project Lead:** @ricoagista   
-- **Kategori OSINT:** @ricoagista @mrobi27   
+- **Project Lead:** [@ricoagista](https://github.com/ricoagista)   
+- **Kategori OSINT:** [@ricoagista](https://github.com/ricoagista) [@mrobi27](https://github.com/mrobi27)   
 - **Kategori Web:** -  
 - **Kategori Crypto:** - 
 - **Kategori Forensics:** -  
