@@ -1,4 +1,4 @@
-# 🧠 Kaliber CTF 2025 – Internal Challenge Repository
+# ⚔️ Kaliber CTF 2025 – Internal Challenge Repository
 
 Repositori ini berisi **seluruh soal dan aset internal** untuk event **Kaliber CTF 2025**, yang disusun oleh bidang kompetisi **LSO KALIBER Universitas Muhammadiyah Malang**.  
 ⚠️ **Repositori bersifat privat dan hanya untuk keperluan internal tim penyusun soal.**
