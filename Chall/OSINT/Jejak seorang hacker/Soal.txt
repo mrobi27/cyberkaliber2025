@@ -1,0 +1,3 @@
+Seorang hacker mencoba menembus keamanan sebuah server,  jejak forensik menunjukkan lalu lintas berasal dari jaringan Wi-Fi sebuah hotel. Tim keamanan menelusuri keberadaan pelaku dan menemukan foto yang diambil di sekitar area hotel diduga foto terakhir yang diambil pelaku.
+
+Clue: Pelaku memiliki kebiasaan menyembunyikan petunjuk kecil di tempat-tempat publik.
